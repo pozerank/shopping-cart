@@ -1,0 +1,8 @@
+mcy:
+  delivery:
+    cost-calculate-algorithm: defaultDeliveryCostCalculationStrategy
+    algorithm:
+      default:
+        costPerDelivery: 1.0
+        costPerProduct: 1.0
+        fixedCost: 2.99
